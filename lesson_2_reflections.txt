@@ -25,7 +25,8 @@ change?
     the changes affected by the first logical change to the staging area, then
     commit those without committing the others.
 
-When would you want to create a new branch, and when would you not?
+What are some situations when branches would be helpful in keeping your history 
+organized? How would branches help?
 
     I like to use master as a stable version of my code and create a new branch
     when I'm planning on working on something experimental, or that will be
